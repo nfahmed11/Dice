@@ -1,0 +1,30 @@
+.Rolldie-die{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+}
+
+
+.Rolldie-button {
+    width: 15em;
+    padding:1.3em; 
+    border: 10px;
+    border-radius: 10px;
+    color: darkslateblue;
+    background-color: #11111; 
+    margin-top: 1em;
+    font-family: 'Dosis', sans-serif;
+}
+
+.Rolldie-button:hover {
+    color:white;
+    background-color: darkslateblue;
+    cursor: pointer;
+}
+
+.
+
+body {
+    background-color: black;
+}
